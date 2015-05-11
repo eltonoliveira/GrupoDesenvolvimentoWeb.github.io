@@ -16,7 +16,7 @@ Existem várias categorias de dúvidas: técnicas, erros, boas práticas de dese
 
 **Antes de postar qualquer dúvida, utilize a pesquisa interna do grupo**. O Desenvolvimento Web é composto por mais de 22K membros e, muito provavelmente, alguém já passou pela mesma dificuldade que você está passando agora. Se após utilizar a pesquisa interna não encontrar nenhum post do grupo abordar sua dúvida, siga as regras abaixo para criar seu post:
 
-## Para todos os tipos de dúvidas
+### Para todos os tipos de dúvidas
 
 1. Todos os membros devem, necessariamente, respeitar uns aos outros.
     1. Se você não sabe como resolver o problema, prefira não comentar para não atrapalhar o autor da dúvida;
@@ -37,7 +37,7 @@ Existem várias categorias de dúvidas: técnicas, erros, boas práticas de dese
 6. Jamais pergunte se tem alguém online e jamais peça ajuda por inbox.
     1. O grupo existe para que seus membros possam se ajudar; se você tira a discussão de dentro do grupo, outros membros não poderão se beneficiar da resposta para sua dúvida.
 
-### Exemplo de post de dúvida perfeito
+#### Exemplo de post de dúvida perfeito
 
 > Erro de consulta no banco de dados #mysql com #php
 > 
